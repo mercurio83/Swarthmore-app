@@ -123,7 +123,7 @@
             <objects>
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="qN5-ae-bo8" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <tabBar key="tabBar" contentMode="scaleToFill" selectionIndicatorImage="Sharples icon" id="AF9-Uf-sKk">
+                    <tabBar key="tabBar" contentMode="scaleToFill" id="AF9-Uf-sKk">
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     </tabBar>
