@@ -15,6 +15,7 @@
 		BF750A8A1C55A5B1008F03F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF750A881C55A5B1008F03F1 /* LaunchScreen.storyboard */; };
 		BF750A951C55A5B1008F03F1 /* Swarthmore_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF750A941C55A5B1008F03F1 /* Swarthmore_appTests.swift */; };
 		BF750AA01C55A5B1008F03F1 /* Swarthmore_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF750A9F1C55A5B1008F03F1 /* Swarthmore_appUITests.swift */; };
+		BF750AAE1C55CC2A008F03F1 /* NavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF750AAD1C55CC2A008F03F1 /* NavigationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BF750A9B1C55A5B1008F03F1 /* Swarthmore appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swarthmore appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF750A9F1C55A5B1008F03F1 /* Swarthmore_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swarthmore_appUITests.swift; sourceTree = "<group>"; };
 		BF750AA11C55A5B1008F03F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF750AAD1C55CC2A008F03F1 /* NavigationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				BF750A7D1C55A5B1008F03F1 /* AppDelegate.swift */,
 				BF750A7F1C55A5B1008F03F1 /* FirstViewController.swift */,
 				BF750A811C55A5B1008F03F1 /* SecondViewController.swift */,
+				BF750AAD1C55CC2A008F03F1 /* NavigationViewController.swift */,
 				BF750A831C55A5B1008F03F1 /* Main.storyboard */,
 				BF750A861C55A5B1008F03F1 /* Assets.xcassets */,
 				BF750A881C55A5B1008F03F1 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF750AAE1C55CC2A008F03F1 /* NavigationViewController.swift in Sources */,
 				BF750A821C55A5B1008F03F1 /* SecondViewController.swift in Sources */,
 				BF750A7E1C55A5B1008F03F1 /* AppDelegate.swift in Sources */,
 				BF750A801C55A5B1008F03F1 /* FirstViewController.swift in Sources */,
